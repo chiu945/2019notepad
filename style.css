@@ -1,0 +1,17 @@
+body{
+   text-align: center;
+}
+.button{
+  border: solid 3px black;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: #123123;
+  background-color: #987987;
+}
+p{
+  color: red;
+  text-align: center;
+  font-size: 30px;
+}
